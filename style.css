@@ -31,9 +31,7 @@ body{
     display: flex;
     flex-direction: column;
     align-content: space-around;
-    
-    
-    
+   
 }
 .image{
     padding: 10px;
